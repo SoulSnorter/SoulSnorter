@@ -5,3 +5,6 @@ Platforma noastra permite creare de conturi personale,acestea fiind de 2 tipuri:
 
 Odata intrati pe platforma elevii trebuie sa se alature unei clase unde pot primi teme si lectii de la profesori.
 Profesorii la randul lor pot crea clase und elevii vor primi lectii si teme.
+
+Site-ul nostru le ofera utilizatorilor posibilitatea de a-si personaliza profilul,adaugand o imagine sau o descriere.
+In cadrul claselor profesorii pot personaliza lectiile si temele in functie de materie,subiect.
