@@ -1,2 +1,2 @@
 # SoulSnorter
-Proiectul echiper Antivirus pentru concursul Empowersoft
+Proiectul echipei Antivirus pentru concursul Empowersoft.
